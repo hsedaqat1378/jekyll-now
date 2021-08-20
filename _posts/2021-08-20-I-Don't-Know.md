@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 like every time Hi, i don't know any one read my blog or not?
 I say guys if you are feel depress or sick or anything your drug is **sport** 
@@ -9,5 +9,3 @@ every sport can do it i like running in over few year i see some times sport kil
 
 
 and some times just pass it.
-
-
