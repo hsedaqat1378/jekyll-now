@@ -5,16 +5,21 @@ permalink: /about/
 published: true
 ---
 
-aboutMe = {
-    "firstName": "Hosein",
-    "lastName": "Sedaqat",
-    "Age": 21
+const aboutMe = {
+    firstName: "Hosein",
+    lastName: "Sedaqat",
+    Age: 21
 }
   
 
 ### More Information
 ### skills:
-Html / Css / Scss / Bootstrap /  javascript / Vuejs and other cool Technology
+
+function mySkills(){
+console.log(' Write Code 😀')
+}
+mySkills()
+
 ### Contact me
 
 Email: hsedaqat1378@gmail.com
