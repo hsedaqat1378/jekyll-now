@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I listen to coldplay band music and tell myself in future:
 
@@ -12,4 +12,3 @@ you deserve the bset thing  music is so good that name is up&up
 
 this message for you man 
 Hosein in 2025 🤘❤ love you
- 
